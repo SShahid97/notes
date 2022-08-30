@@ -1,0 +1,71 @@
+body{
+    background: #e7cef9;
+}
+.app-header{
+    background: grey;
+    color: white;
+    padding: 5px;
+}
+.btn:focus{
+    box-shadow:none !important;
+    outline:none !important;
+}
+.comment {
+    background: #fbfbfb;
+    margin-top: 10px;
+    border: 1px solid #edebeb;;
+    padding: 10px;
+    border-radius:3px;
+    box-shadow: 2px 3px 3px grey;
+}
+.date-time{
+    text-align:right; 
+    color:blue; 
+    font-style: italic;
+}
+.comment-head{
+    font-size:17px; 
+    font-weight:bold; 
+    border-bottom:2px solid grey; 
+    color: grey;  
+}
+.bg-text-colors{
+    background: grey;
+    color: white;
+    padding: 5px;
+}
+.note-body{
+    text-align: justify; 
+    font-family: cursive;
+    color: #1f3351;
+}
+.note-card{
+    box-shadow: 4px 5px 5px grey;
+}
+.note-card-header{
+    background: #403f3f; 
+    color: white;
+}
+.forms{
+    padding: 20px;
+    border-left: 1px solid lightgrey;
+    box-shadow: 4px 6px 4px grey;
+    background: whitesmoke;
+}
+.headers{
+    background: grey; 
+    color: white; 
+    text-align: center; 
+    padding: 3px;
+}
+.custom{
+    box-shadow: 4px 6px 4px grey;
+}
+
+.cards-heading{
+    background: #484646;
+    color: white;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
