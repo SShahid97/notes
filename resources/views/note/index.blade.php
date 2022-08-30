@@ -13,7 +13,7 @@
             </div>
         @endif
     </div>
-  <div class="row row-cols-auto">
+  <div class="row">
     @foreach ($notes as $note)
        <div class="card mb-3 custom">
             <div class="card-body">

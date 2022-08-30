@@ -10,7 +10,7 @@ use Session;
 
 class NoteController extends Controller
 {
-    //Displaying the Notes the home page
+    //Displaying the Notes on the home page
     public function index()
     {  
         $notes = Note::orderBy('created_at','desc')->get();
